@@ -1,0 +1,8 @@
+Airbnb challenges you to predict in which country a new user will make his or her first booking
+https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
+
+Walmart Recruiting - Store Sales Forecasting
+https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
+
+Walmart Recruiting: Trip Type Classification
+https://www.kaggle.com/c/walmart-recruiting-trip-type-classification
